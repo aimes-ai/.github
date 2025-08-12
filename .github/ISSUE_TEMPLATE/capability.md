@@ -1,7 +1,7 @@
 ---
 name: Capability
 about: Core capability of or with the system or service
-title: ""
+title: "[C] "
 type: capability
 assignees: ''
 ---
