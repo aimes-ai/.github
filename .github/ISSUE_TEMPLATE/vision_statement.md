@@ -1,7 +1,7 @@
 ---
 name: Vision Statement
 about: Business-level definition of the system or service
-title: ""
+title: "[VS] "
 type: vision_statement
 assignees: ''
 ---
